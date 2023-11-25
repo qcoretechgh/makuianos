@@ -5,4 +5,5 @@ Makuian OS, розроблена qCoreTech, побудована на Debian 12 
 
 Makuian OS, разработанная qCoreTech, основана на Debian 12 Bookworm. Он оснащен средой рабочего стола GNOME, а также множеством приложений и визуально привлекательным дизайном.
 
-Download link : https://drive.google.com/file/d/1owW8Tm9QX6FRTDXQ45GvVPqouUfC5RJY/view?usp=drive_link
+Download link(Version 1.0) : https://drive.google.com/file/d/1owW8Tm9QX6FRTDXQ45GvVPqouUfC5RJY/view?usp=drive_link
+Download link(Version 1.2) : https://drive.google.com/file/d/1vu06rxmghDAVoUr7A_clAPPZRzQ4uknE/view?usp=drive_link
